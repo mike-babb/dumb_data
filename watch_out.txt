@@ -1,0 +1,34 @@
+What should you watch out for when working with data?
+1. Can the error codes / suppression codes be valid values in some records? @mike-babb 2019 07 30
+2. Could the documentation actually be incorrect or out of date? @mike-babb 2019 07 30
+3. Line endings matter. @mike-babb 2019 07 30
+4. Did the data come from a pc or a *nix? @mike-babb 2019 07 30
+5. File encodings always matter. @mike-babb 2019 07 30
+6. When was the last time you cleared your memory? @mike-babb 2019 07 30
+7. When was the last time you power-cycled your computer? @mike-babb 2019 07 30
+8. Is your programming language zero-indexed? @mike-babb 2019 07 30
+9. There is a very real difference between ` and '. @mike-babb 2019 07 30
+10. Some parts of the world speak a language other than and/or in addition to english. For example, it's Doña Ana County, NM not Donna Ana County, NM. @mike-babb 2019 07 30
+11. Update your software and libraries! @mike-babb 2019 07 30
+12. That latest software update? What did it break?! @mike-babb 2019 07 30
+13. You probably have multiple version of the data file(s). Are you sure you're using the correct one? @mike-babb 2019 07 30
+14. It's broken and you have no idea why. Have you stepped away from the task for at least an hour? @mike-babb 2019 07 30
+15. They say it's 32-bit. But is your data really? Maybe those negative numbers are coming from an overflow. @mike-babb 2019 07 30
+16. They say it's 32-bit. But is your software really? Maybe those negative numbers are coming from an overflow. @mike-babb 2019 07 30
+17. You had floats/decimal/double/numeric and then you converted to an integer. Yet, things seem off. Some software rounds up. Some down. Some floors numbers regardless. What do you want to happenn? @mike-babb 2019 07 30
+18. Just what specification of floats/decimal/double/numeric is the software implementing? @mike-babb 2019 07 30
+19. It's never too late to check the distribution of a variable. It may surprise you. @mike-babb 2019 07 30
+20. Don't store the outcome of a test in the code, store it as a boolean variable. @mike-babb 2019 07 30
+21. A series of boolean variables recording the outcome of a series of tests can be incredibly illuminating. @mike-babb 2019 07 30
+22. No one has ever been accused of writing too many meangiful comments. @mike-babb 2019 07 30
+
+
+
+
+
+
+
+
+
+
+
