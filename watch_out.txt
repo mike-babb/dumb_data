@@ -32,6 +32,7 @@ What should you watch out for when working with data?
 31. Your code does something and it generated/cleaned some data. That's v1.0. Check it in, share your results, and code v2.0 tomorrow. @mike-babb 2019 08 01
 32. Maybe you can draw some conclusions from the first 10K rows or a 1-percent random sample? @mike-babb 2019 08 01
 33. What's the MVP (minimum viable product)? @mike-babb 2019 08 01
+34. Learning is stressful. @ 
 
 
 
