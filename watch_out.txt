@@ -32,7 +32,16 @@ What should you watch out for when working with data?
 31. Your code does something and it generated/cleaned some data. That's v1.0. Check it in, share your results, and code v2.0 tomorrow. @mike-babb 2019 08 01
 32. Maybe you can draw some conclusions from the first 10K rows or a 1-percent random sample? @mike-babb 2019 08 01
 33. What's the MVP (minimum viable product)? @mike-babb 2019 08 01
-34. Learning is stressful. @ 
+34. Learning is stressful. @will-brown
+35. Are you sure you removed all duplicates? @mike-babb 2019 08 21
+36. What combination of columns makes a row duplicated? @mike-babb 2019 08 21
+37. That unique id... is it really unique? Both within a table and across tables? @mike-babb 2019 08 21
+38. Yes, the operating system will record the date created and the date modified of a file. And so will a LastUpdate date field in your tabular field. @mike-babb 2019 08 21
+39. Be a pal and include a LastUpdateBy. @mike-babb 2019 08 21
+40. How big is the chasm between what you think the data are telling you versus what the data are actually saying? @mike-babb 2019 08 21
+41. This isn't a dissertation! It doesn't need to be perfect. @mike-babb 2019 08 21
+
+
 
 
 
