@@ -2,7 +2,7 @@ What should you watch out for when working with data?
 1. Can the error codes / suppression codes be valid values in some records? @mike-babb 2019 07 30
 2. Could the documentation actually be incorrect or out of date? @mike-babb 2019 07 30
 3. Line endings matter. @mike-babb 2019 07 30
-4. Did the data come from a pc or a *nix? @mike-babb 2019 07 30
+4. Did the data come from a pc or a *nix operating system? @mike-babb 2019 07 30
 5. File encodings always matter. @mike-babb 2019 07 30
 6. When was the last time you cleared your memory? @mike-babb 2019 07 30
 7. When was the last time you power-cycled your computer? @mike-babb 2019 07 30
@@ -20,8 +20,8 @@ What should you watch out for when working with data?
 19. It's never too late to check the distribution of a variable. It may surprise you. @mike-babb 2019 07 30
 20. Don't store the outcome of a test in the code, store it as a boolean variable. @mike-babb 2019 07 30
 21. A series of boolean variables recording the outcome of a series of tests can be incredibly illuminating. @mike-babb 2019 07 30
-22. No one has ever been accused of writing too many meaningful comments. @mike-babb 2019 07 30
-23. That decision you just made, was it made after your friend invited you out to Happy Hour ten minutes ago and you're ready to join your friend? @mike-babb 2019 08 01
+22. No one has ever been accused of writing too many meaningful comments. Meaningless comments, yes. Meaningful comments, no. @mike-babb 2019 07 30
+23. That decision you just made, was it made after your friend invited you out to Happy Hour ten minutes ago and you're ready to call it a day and join your friend? @mike-babb 2019 08 01
 24. Just how many get_data() functions have you written? @mike-babb 2019 08 01
 25. When was the last time you talked with someone else about what you're doing? @mike-babb 2019 08 01
 26. Never forget that 3 months in the lab will save you 3 hours in the library. @mike-babb 2019 08 01
@@ -40,6 +40,9 @@ What should you watch out for when working with data?
 39. Be a pal and include a LastUpdateBy. @mike-babb 2019 08 21
 40. How big is the chasm between what you think the data are telling you versus what the data are actually saying? @mike-babb 2019 08 21
 41. This isn't a dissertation! It doesn't need to be perfect. @mike-babb 2019 08 21
+42. Every time you think to yourself, "now that couldn't be the case or that's not realistic," the odds of that being the case just increased to 100-percent. Write that thought down, put it in the sprint backlog, fix it right now, tell a friend, investigate it further. But don't ignore it. @mike-babb 2019 09 11
+43. What you don't fix today will be twice as complicated to fix three months from now. @mike-babb 2019 09 11
+
 
 
 
