@@ -44,7 +44,7 @@ What should you watch out for when working with data?
 43. Every time you think to yourself, "now that couldn't be the case or that's not realistic," the odds of that being the case just increased to 100-percent. Write that thought down, put it in the sprint backlog, fix it right now, tell a friend, investigate it further. But don't ignore it. @mike-babb 2019 09 11
 44. What you don't fix today will be twice as complicated to fix three months from now. @mike-babb 2019 09 11
 45. When was the last time you checked the documentation of the function? @mike-babb 2020 04 04
- 
+46. RStudio's default is to load the workspace from the previous session. Disable that right now and restart r studio. 
 
 
 
